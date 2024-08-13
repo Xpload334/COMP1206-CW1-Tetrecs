@@ -1,0 +1,6 @@
+Koala:6000
+Titus:5000
+WhiteKnight:4000
+Inzaine:3000
+Breaker:2000
+Xpload:1000
